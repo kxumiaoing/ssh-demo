@@ -1,0 +1,5 @@
+CREATE TABLE user(
+    id      INT(11) AUTO_INCREMENT PRIMARY KEY ,
+    name    VARCHAR(50) NOT NULL ,
+    age     TINYINT NOT NULL
+);
